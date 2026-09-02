@@ -41,3 +41,5 @@
 ## 兼容性
 
 Chrome / Edge / Firefox / Safari / Opera 均支持（需对应油猴扩展）。
+
+![Star History](https://www.star-history.com/?repos=Dominic-KK%2FAllow_Select_Copy&type=date&legend=top-left)

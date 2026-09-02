@@ -41,3 +41,5 @@ Two ways to enable a mode:
 ## Compatibility
 
 Works with Chrome / Edge / Firefox / Safari / Opera (requires a matching userscript manager).
+
+![Star History](https://www.star-history.com/?repos=Dominic-KK%2FAllow_Select_Copy&type=date&legend=top-left)
