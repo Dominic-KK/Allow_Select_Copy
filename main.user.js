@@ -5,6 +5,7 @@
 // @namespace            https://dominickk.top/
 // @version              0.0.1
 // @tag                  @Dominic🌹 浏览器插件 允许复制 允许选择
+// @icon                 https://dk-bucket.dominic.dpdns.org/picgo/2026/09/021535-f05.png
 // @author               Dominic KK🌹
 // @description          支持通过CSS允许选择、通过影响监听器等方案实现允许选择和复制，可保存配置，单次生效/全局生效。
 // @description:zh-CN    支持通过CSS允许选择、通过影响监听器等方案实现允许选择和复制，可保存配置，单次生效/全局生效。
