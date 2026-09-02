@@ -3,7 +3,7 @@
 // @name:zh-CN           🌹允许复制🌹
 // @name:en              🌹Allow Select & Copy🌹
 // @namespace            https://dominickk.top/
-// @version              0.0.1
+// @version              0.0.2
 // @tag                  @Dominic🌹 浏览器插件 允许复制 允许选择
 // @icon                 https://dk-bucket.dominic.dpdns.org/picgo/2026/09/021535-f05.png
 // @author               Dominic KK🌹
